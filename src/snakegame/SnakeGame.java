@@ -17,9 +17,9 @@ import javax.swing.*;
  */
 public class SnakeGame extends JFrame{
 
-    public static final int WIDTH = 320;
-    public static final int HEIGHT = 240;
-    public static final int SCALE = 10;
+    public static final int WIDTH = 480;
+    public static final int HEIGHT = 360;
+    public static final int SCALE = 15;
     public static int ROW = HEIGHT / SCALE;
     public static int COL = WIDTH / SCALE;
     private int UP = 0;
